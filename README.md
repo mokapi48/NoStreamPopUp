@@ -1,6 +1,6 @@
 # NoStreamPopUp
 
-Hides the floating picture-in-picture window Discord shows to preview a stream — yours or anyone else's.
+Hides the floating picture-in-picture window Discord shows to preview a stream, yours or anyone else's.
 
 ## What it does
 
@@ -8,6 +8,8 @@ When a screen share is active, Discord displays a small floating window over the
 
 - Works for your own share **and** other people's
 - CSS only — no patches, no restart needed to toggle on/off
+
+---
 
 ## Installation
 
